@@ -1,0 +1,14 @@
+# github.com/Nerzal/gocloak/v8 v8.3.0
+## explicit
+github.com/Nerzal/gocloak/v8
+github.com/Nerzal/gocloak/v8/pkg/jwx
+# github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
+github.com/dgrijalva/jwt-go/v4
+# github.com/go-resty/resty/v2 v2.3.0
+github.com/go-resty/resty/v2
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/segmentio/ksuid v1.0.3
+github.com/segmentio/ksuid
+# golang.org/x/net v0.0.0-20200822124328-c89045814202
+golang.org/x/net/publicsuffix
