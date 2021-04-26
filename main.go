@@ -20,4 +20,5 @@ func main(){
 		panic("Something wrong with the credentials or url")
 	}
 	fmt.Println(userArr)
+	fmt.Println("pushTest")
 }
